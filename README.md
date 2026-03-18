@@ -6,3 +6,5 @@ wyf create wyf_dev
 lcy create lcy_dev
 
 chw create chw_dev
+
+zqj create zqj_dev
